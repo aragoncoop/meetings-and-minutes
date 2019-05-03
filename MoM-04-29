@@ -1,0 +1,97 @@
+AC Minute of Meeting / Apr 29
+===
+
+###### tags: `Templates` `Meeting`
+
+:::info
+- **Invitation:** Room https://meet.jit.si/AragonCoop
+- **Date:** Apr 29, 2019 16:00 PM (UTC)
+- **Participants:**
+    - Gustavo
+    - Julian
+    - Luke
+    - Criptodani (communityMng in AragonBlack)
+    - Tete
+    - Jose Aguinaga (CTO @ MyBit AG)
+    - Jeremy
+    - Gabi
+    - Daniel S
+    - Burrata
+    - Otto
+    - Yalda
+    - Louisgrx
+    - Willgriff
+    - Rafael
+- **Contact:** @sepu85 <sepu85@gmail.com>
+- **Moderator:** Gustavo Segovia
+- **Video:** https://www.dropbox.com/s/g5855fcs4h3u8yd/aragoncoop%20on%202019-04-29%2017%3A34.mp4?dl=0
+- **Reference:** - [Last week meeting minute](/s/template-meeting-note)
+
+:::
+
+## Agenda
+1. Presentations 10-15 min
+2. Prioritizarion of Agenda items ~ 5 min
+3. **Agenda Body:**
+> [name=Gus]
+> Let's coordinate to add priorities the Agenda items
+- AGP-40 Celebration and clarification
+- [AragonCoop Workflow](https://hackmd.io/pUuLOvlQQoygsaNv0hQ8Jg?both) agreement
+- Cooperative Membership requirements + Onboarding process
+  - https://docs.google.com/forms/d/1QCf4WOfA4W8JATAUL1Xt6v7pMyvyyt9c5UIid8UkdsQ 
+- ~~Discuss maintainance of the Coop's DAO (i.e. upgrades, installing new apps, etc)~~ (not discussed)
+- ~~Discuss acquiring a ENS domain for the Coop's DAO~~ (not discussed)
+- ~~Discuss acquiring social media domain(s) for the Coop's DAO~~ (not discussed)
+- Agreeing on incoming work for the Coop in terms of research or development
+  + ~~Experimenting with 3Box to provide a full-name to the DAO's member profiles~~ (not discussed0)
+  + Experimenting with TPS to allocate incoming tasks for the Coops through it, such as:
+    * Writing a blog post on how to setup, install and manage a DAO for the layman (either a series or one)
+    * ~~Creating a podcast or other similar medium for showcasing some of the work Aragon teams (e.g. Aragon One, Aragon Black, Aragon Coop) are currently doing in the ecosystem.~~ (not discussed)
+    * "Resource Hub"/[OWL](https://hackmd.io/QFNLJjY1SV6D53W9Mi2zMw?both) documentation/resource aggregation initative
+    * ~~Dev Projects (Proxy voting?, rage quit?, community archive node, community ipfs node? MyBit identity for coop?)~~ (not discussed)
+  + ANT surveys + Communication
+<!-- TOPIC ALLREADY INCLUDED  + Proposal Curation for Community funding dao -->
+- ~~Discuss Coop x CFDAO operations~~ (Not discussed)
+- Coop Communications expectations/preferences (Keybase, forum, github)
+<!-- TOPIC ALLREADY INCLUDED
+- Operating an archive node for the community  https://forum.aragon.org/t/agp-analysis-and-suggestions-for-improvement/854/15 -->
+
+
+## Notes 
+<!-- Other important details discussed during the meeting can be entered here. -->
+As a general Note, the meeting was not as productive as expected in terms of decition taking on tasks definition and prioritization as it was more foused on discussing how people could be as autonomus as possible while challenging the AGP-40 scope itself and proposing other resource allocation mechanism, discussion that did not reach any consensus during the call.
+ - Figuring out how to self organize
+ - Detail the scope of the AGP deliverables in tangible terms
+     - Julian: we should spent some time in figuring out what we are and the first point in the scope should be to define this.
+     - Would it make sense to build up working groups for AGP engagement, processes, create resource hubs, governance tools onboarding etc... ?? There seems to be a genreal agreement about this.
+
+While there was no way to discuss all items in Agenda, there was a general agreement to move forward with the following...
+
+## Action Items
+ - Coop Membership and Bylaws (scope) --> This will define a minimun viable governance framework for the cooperative to operate as decentralized and autonomus as possible, guaranteeing actions will be taken in an rganized way.
+     - Julian (co-lead)
+     - Gustavo (co-lead)
+ - Coop Workflow (meta governance / resource management)
+     - Luke (Lead)
+     - Gustavo
+     - burrrata
+ - Education/Docs OWL
+     - burrrata (Lead)
+     - Luke
+     - Jose Aguinaga
+ - AGP Engagment/Participation/Surveys
+     - Luke (Lead)
+     - Gustavo
+
+
+
+:closed_book: Tasks
+--
+
+### Resources:
+* [ AragonCoop Github](https://github.com/aragoncoop/membership)
+* [AGP-40 Aragon Cooperative DAO funding proposal](https://github.com/aragon/AGPs/blob/master/AGPs/AGP-40.md)
+* [Aragon Coop DAO - A Minimum Viable Manifesto (MVM)](https://forum.aragon.org/t/aragon-coop-dao-a-minimum-viable-manifesto-mvm/690/14)
+* [Community Initiative: Aragon Cooperative :raised_hands:](https://forum.aragon.org/t/community-initiative-aragon-cooperative/356)
+* [Aragon OWL: ongoing work-based learning](https://hackmd.io/QFNLJjY1SV6D53W9Mi2zMw?both)
+* [Cooperative Workflow (Luke's proposal)](https://hackmd.io/pUuLOvlQQoygsaNv0hQ8Jg?both)
