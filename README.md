@@ -1,4 +1,4 @@
 # meetings-and-minutes
-A place to keep trace of all AragaonCoop Meetings and MinutesofMeetings (MoM)
+A place to keep track of all AragonCoopDAO Meetings and Minutes of Meetings (MoM).
 
-To have a view of the AragonCoop Calendar (to be updated with a new AragonCoop account to be set yet) see [this](https://calendar.google.com/calendar/embed?src=edr6oubhft0om1t5oo1i2k43ao%40group.calendar.google.com&ctz=Europe%2FMadrid)
+To view the AragonCoopDAO Calendar (to be updated with new AragonCoopDAO account tbd?) see [here](https://calendar.google.com/calendar/embed?src=edr6oubhft0om1t5oo1i2k43ao%40group.calendar.google.com&ctz=Europe%2FMadrid)
